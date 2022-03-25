@@ -16,13 +16,13 @@ Because each microservice is self-contained, you must install dependencies for e
 Follow these steps:
 
 **Auth service**
-```
+```bash
 cd nodejs-microservices/auth
 npm install
 ```
 
 **Users service**
-```
+```bash
 cd nodejs-microservices/users
 npm install
 ```
@@ -31,13 +31,13 @@ npm install
 
 **Auth service**
 
-```
+```bash
 cd nodejs-microservices/auth
 npm start
 ```
 **Users service**
 
-```
+```bash
 cd nodejs-microservices/users
 npm start
 ```
@@ -45,13 +45,13 @@ npm start
 
 **Auth service**
 
-```
+```bash
 cd nodejs-microservices/auth
 npm test
 ```
 **Users service**
 
-```
+```bash
 cd nodejs-microservices/users
 npm test
 ```
