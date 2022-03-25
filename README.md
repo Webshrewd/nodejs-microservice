@@ -7,7 +7,9 @@ Nodejs simple microservice tutorial boilerplate
 
 Clone this project into a folder called nodejs-microservices inside your current working directory.
 
-`git clone https://github.com/Webshrewd/nodejs-microservice.git nodejs-microservices`
+```bash
+git clone https://github.com/Webshrewd/nodejs-microservice.git nodejs-microservices
+```
 
 ### 2. Install dependencies
 
